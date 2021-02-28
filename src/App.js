@@ -13,17 +13,17 @@ function App() {
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-          <a class="navbar-brand" href="#"><b>QUOTES random</b></a>
+          <a class="navbar-brand" href="#"><b>QUOTES</b></a>
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
             <li class="nav-item active">
               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
+            {/* <li class="nav-item">
               <a class="nav-link" href="#">Link</a>
             </li>
             <li class="nav-item">
               <a class="nav-link " href="#">Disabled</a>
-            </li>
+            </li> */}
           </ul>
           <form class="form-inline my-2 my-lg-0">
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
